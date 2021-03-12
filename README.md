@@ -2,7 +2,6 @@
 Automating transcription of invoices
 
 
-____________________________________________________________________________
 
 ```
 Sub extract()
