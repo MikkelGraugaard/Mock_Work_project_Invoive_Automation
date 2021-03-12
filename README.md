@@ -4,6 +4,7 @@ Automating transcription of invoices
 
 ____________________________________________________________________________
 
+```
 Sub extract()
     
     Application.ScreenUpdating = False
@@ -72,3 +73,4 @@ Sub extract()
     Application.ScreenUpdating = True
 
 End Sub
+```
