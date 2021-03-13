@@ -1,4 +1,4 @@
-# Mock_Work_project_Invoive_Automation
+# Mock_Work_project_Invoice_Automation
 Automating transcription of invoices
 
 
