@@ -5,7 +5,8 @@ Automating transcription of invoices
 
 ```
 Sub extract()
-    
+   
+    'Disabeling screen update to make the code more efficient
     Application.ScreenUpdating = False
 
 
